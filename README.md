@@ -1,3 +1,3 @@
 # DisplayTony
-show some results
-![演示視頻](./assets/p1.mp4)
+show some results[
+https://github.com/Yang-G-cheng/DisplayTony/raw/main/path/to/your/video.mp4
