@@ -8,4 +8,4 @@ show some results
 <img src="./ob3_1cc.gif" width="500" height="300">
 
 - 項目3：[自駕車路口緊急避讓](https://youtu.be/AaqckTvClVg)
-- <img src="./v1c.gif" width="500" height="300">
+<img src="./v1c.gif" width="500" height="300">
