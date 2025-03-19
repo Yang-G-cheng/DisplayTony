@@ -7,4 +7,5 @@ show some results
 <img src="./ob2_1c.gif" width="500" height="300">
 <img src="./ob3_1cc.gif" width="500" height="300">
 
-- 項目3：[1.車輛](https://youtu.be/l5ahsCPko4s) [2.行人](https://youtu.be/y1Zv07FIMk0)
+- 項目3：[自駕車路口緊急避讓](https://youtu.be/AaqckTvClVg)
+- <img src="./v1c.gif" width="500" height="300">
