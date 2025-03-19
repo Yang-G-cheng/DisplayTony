@@ -1,3 +1,3 @@
 # DisplayTony
 show some results
-![描述](./path/to/your/phone.gif)
+![描述](./phone.gif)
