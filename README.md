@@ -5,3 +5,4 @@ show some results
 
 - 項目2：基於YoLo & DeepSoft之物件追蹤 [1.車輛](https://youtu.be/l5ahsCPko4s) [2.行人](https://youtu.be/y1Zv07FIMk0)
 <img src="./ob2_1c.gif" width="500" height="300">
+<img src="./ob3_1cc.gif" width="500" height="300">
