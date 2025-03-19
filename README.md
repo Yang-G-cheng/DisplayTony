@@ -1,4 +1,3 @@
 # DisplayTony
 show some results
-https://user-images.githubusercontent.com/Yang-G-cheng/DisplayTony/assets/論1.mp4
-
+https://github.com/Yang-G-cheng/DisplayTony/raw/main/path/to/your/論1.mp4
