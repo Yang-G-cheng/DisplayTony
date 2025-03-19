@@ -18,7 +18,7 @@
 我曾有機會參與自駕車相關科普電視節目的拍攝。這段經歷不僅讓我能夠分享專業知識，也讓我體驗到科技傳播的樂趣與重要性。
 
 - 項目1：[實習生的筆記本節目拍攝](https://youtu.be/FsgdbukNgEY?si=3-YY52wmtj8qfmUd&t=132) [實習生的筆記本PodCast拍攝](https://www.youtube.com/watch?v=8VfCMFU1eds&list=PLIUx-rz1y4R6h9U5_A8Of8rcHomr8WE_1&index=7)
-<img src="./tvshow.jpg" width="500" height="300">
+<img src="./622.jpg" width="500" height="300">
 
 # 聯絡方式
 - Email：a01010508s@gmail.com
