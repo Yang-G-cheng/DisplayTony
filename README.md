@@ -9,3 +9,6 @@ show some results
 
 - 項目3：[自駕車路口緊急避讓](https://youtu.be/AaqckTvClVg)
 <img src="./v1c.gif" width="500" height="300">
+
+- 項目4：[實習生的筆記本節目拍攝](https://youtu.be/FsgdbukNgEY?si=hSdHfixioVgR-BKg)
+[![影片標題](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/FsgdbukNgEY?si=hSdHfixioVgR-BKg)
