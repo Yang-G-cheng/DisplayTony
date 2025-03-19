@@ -11,4 +11,4 @@ show some results
 <img src="./v1c.gif" width="500" height="300">
 
 - 項目4：[實習生的筆記本節目拍攝](https://youtu.be/FsgdbukNgEY?si=hSdHfixioVgR-BKg)
-[![影片標題](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/FsgdbukNgEY?si=hSdHfixioVgR-BKg)
+[![影片標題](https://img.youtube.com/vi/FsgdbukNgEY?si=hSdHfixioVgR-BKg/0.jpg)](https://youtu.be/FsgdbukNgEY?si=hSdHfixioVgR-BKg)
