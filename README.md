@@ -19,10 +19,6 @@
   使用輕量化模型實現可運作於本地端行動裝置之物件辨識案例。
 <img src="./phone.gif" width="500" height="300">
 
-- 項目4：基於YoLo & DeepSort之物件追蹤 [1.車輛](https://youtu.be/l5ahsCPko4s) [2.行人](https://youtu.be/y1Zv07FIMk0)
-- 
-<img src="./ob2_1c.gif" width="500" height="300">
-<img src="./ob3_1cc.gif" width="500" height="300">
 
 # 榮耀事蹟
 在台灣積體電路製造股份有限公司(Taiwan Semiconductor Manufacturing Company Limited - TSMC)任職時，基於YOLO演算法開發Wafer Edge Bevel Detect，首創Wafer EBR dataset 及 動態圓演算法，成功提升產能並獲得33屆TSMC TQE Conference第一名肯定
