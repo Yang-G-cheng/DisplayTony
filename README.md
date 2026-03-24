@@ -12,7 +12,7 @@
 - 項目2：[建立你的地圖 (BYT)](https://youtube.com/shorts/z-BBTMzqENE?feature=share)
 - 
   基於LLM開發的旅遊小助手，以自然語言方式快速協助旅人安排行程，且提供多個旅程存檔，可做為日後回憶。
-<img src="./BYT.gif" width="500" height="300">
+<img src="./BYT.gif" width="300" height="500">
   
 - 項目3：[健康叮嚀小天使APP (可於智慧型手機執行之水果物件辨識)](https://youtu.be/GvsNPLzUvQg)
 - 
