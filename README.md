@@ -6,7 +6,7 @@
 
 - 項目1：[基於時空圖注意力及分層式強化學習之自駕決策與控制系統設計](https://youtu.be/AaqckTvClVg)
 - 
-  首先已圖注意力機制(GAT)對環境進行編碼(理解層)，接著使用分層強化學習(HRL)分別進行路徑與控制的決策。
+  首先以圖注意力機制(GAT)對環境進行編碼(理解層)，接著使用分層強化學習(HRL)分別進行路徑與控制的決策。
 <img src="./v1c.gif" width="500" height="300">
 
 - 項目2：[建立你的地圖 (BYT)](https://youtube.com/shorts/z-BBTMzqENE?feature=share)
