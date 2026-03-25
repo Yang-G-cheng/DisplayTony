@@ -24,6 +24,7 @@
 在台灣積體電路製造股份有限公司(Taiwan Semiconductor Manufacturing Company Limited - TSMC)任職時，基於YOLO演算法開發Wafer Edge Bevel Detect，首創Wafer EBR dataset 及 動態圓演算法，成功提升產能並獲得33屆TSMC TQE Conference第一名肯定
 <img src="./TQE1.jpg" width="500" height="300">
 <img src="./TQE2.jpg" width="500" height="300">
+<img src="./photo_2026-03-26_00-53-37.jpg" width="500" height="300">
 
 # 媒體參與
 我曾有機會參與自駕車相關科普電視節目的拍攝。這段經歷不僅讓我能夠分享專業知識，也讓我體驗到科技傳播的樂趣與重要性。
